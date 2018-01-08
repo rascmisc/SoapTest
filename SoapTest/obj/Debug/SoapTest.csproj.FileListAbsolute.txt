@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\SoapTest\SoapTest\bin\Debug\SoapTest.exe.config
+c:\users\user\documents\visual studio 2015\Projects\SoapTest\SoapTest\obj\Debug\SoapTest.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\SoapTest\SoapTest\obj\Debug\SoapTest.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\SoapTest\SoapTest\obj\Debug\SoapTest.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\SoapTest\SoapTest\bin\Debug\SoapTest.exe
+c:\users\user\documents\visual studio 2015\Projects\SoapTest\SoapTest\bin\Debug\SoapTest.pdb
+c:\users\user\documents\visual studio 2015\Projects\SoapTest\SoapTest\obj\Debug\SoapTest.exe
+c:\users\user\documents\visual studio 2015\Projects\SoapTest\SoapTest\obj\Debug\SoapTest.pdb
+C:\Users\USER\documents\visual studio 2015\Projects\SoapTest\SoapTest\obj\Debug\SoapTest.csprojResolveAssemblyReference.cache
